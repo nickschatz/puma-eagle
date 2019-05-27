@@ -647,8 +647,8 @@
 <devices>
 <device name="" package="SOT223">
 <connects>
-<connect gate="G$1" pin="5V" pad="2"/>
-<connect gate="G$1" pin="GND" pad="1 4"/>
+<connect gate="G$1" pin="5V" pad="2 4"/>
+<connect gate="G$1" pin="GND" pad="1"/>
 <connect gate="G$1" pin="VIN" pad="3"/>
 </connects>
 <technologies>
